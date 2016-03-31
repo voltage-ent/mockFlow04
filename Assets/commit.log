@@ -1,0 +1,45 @@
+sfmac010:Assets michael.chang$ git push -u origin dev
+Counting objects: 12, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (10/10), done.
+Writing objects: 100% (12/12), 4.38 MiB | 0 bytes/s, done.
+Total 12 (delta 2), reused 0 (delta 0)
+remote: pulling to (local) github
+remote: warning: no common commits
+remote: From /Users/michael.chang/Desktop/PRJ/Witches/github.com/MOCK/test10/SERVER/localRepo
+remote:  * branch            dev        -> FETCH_HEAD
+remote:  * [new branch]      dev        -> local/dev
+remote: Merge made by the 'recursive' strategy.
+remote:  Assets/Scripts/script-01.cs  | 0
+remote:  Assets/Scripts/script-02.cs  | 0
+remote:  Assets/Scripts/script-03.cs  | 0
+remote:  Assets/Textures/mario.png    | 3 +++
+remote:  Assets/Textures/princess.png | 3 +++
+remote:  Assets/Textures/yoshi.png    | 3 +++
+remote:  6 files changed, 9 insertions(+)
+remote:  create mode 100644 Assets/Scripts/script-01.cs
+remote:  create mode 100644 Assets/Scripts/script-02.cs
+remote:  create mode 100644 Assets/Scripts/script-03.cs
+remote:  create mode 100644 Assets/Textures/mario.png
+remote:  create mode 100644 Assets/Textures/princess.png
+remote:  create mode 100644 Assets/Textures/yoshi.png
+remote: ...triggering LFS check!
+remote: 	> processing Assets/Textures/mario.png
+remote: rm 'Assets/Textures/mario.png'
+remote: 	> processing Assets/Textures/princess.png
+remote: rm 'Assets/Textures/princess.png'
+remote: 	> processing Assets/Textures/yoshi.png
+remote: rm 'Assets/Textures/yoshi.png'
+remote:       ...commiting!
+remote: [dev 1d86480] ...merging LFS files
+remote:  3 files changed, 0 insertions(+), 0 deletions(-)
+remote:  rewrite Assets/Textures/mario.png (99%)
+remote:  rewrite Assets/Textures/princess.png (99%)
+remote:  rewrite Assets/Textures/yoshi.png (99%)
+remote: ...pushing to github
+remote: Git LFS: (3 of 3 files) 6.13 MB / 6.13 MB
+remote: To https://voltage-ent@github.com/voltage-ent/mockFlow04.git
+remote:  * [new branch]      dev -> dev
+To /Users/michael.chang/Desktop/PRJ/Witches/github.com/MOCK/test10/SERVER/localRepo.git/
+ * [new branch]      dev -> dev
+Branch dev set up to track remote branch dev from origin.
